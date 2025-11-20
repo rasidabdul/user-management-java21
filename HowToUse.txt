@@ -1,0 +1,10 @@
+ How to Use
+
+  1. Copy the specification format
+  2. Replace placeholders with your domain:
+    - Service name
+    - Entity name and fields
+    - Endpoints
+    - Business rules
+  3. Paste to Claude with: "Create this microservice using the generic Spring Boot template"
+
