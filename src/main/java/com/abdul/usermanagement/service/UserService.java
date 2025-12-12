@@ -55,13 +55,13 @@ public class UserService {
      */
     public UserResponse createUser(UserRequest request) {
         log.debug("Creating user with firstName: {}, lastName: {}, age: {}",
-                request.getFirstName(), request.getLastName(), request.getAge());
+                request.firstName(), request.lastName(), request.age());
 
         User user = User.builder()
-                .firstName(request.getFirstName())
-                .lastName(request.getLastName())
-                .address(request.getAddress())
-                .age(request.getAge())
+                .firstName(request.firstName())
+                .lastName(request.lastName())
+                .address(request.address())
+                .age(request.age())
                 .build();
 
         User savedUser = userRepository.save(user);
@@ -83,10 +83,10 @@ public class UserService {
         User user = userRepository.findById(id)
                 .orElseThrow(() -> new UserNotFoundException(id));
 
-        user.setFirstName(request.getFirstName());
-        user.setLastName(request.getLastName());
-        user.setAddress(request.getAddress());
-        user.setAge(request.getAge());
+        user.setFirstName(request.firstName());
+        user.setLastName(request.lastName());
+        user.setAddress(request.address());
+        user.setAge(request.age());
 
         User updatedUser = userRepository.save(user);
         log.info("Updated user with id: {}", id);

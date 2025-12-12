@@ -6,6 +6,9 @@ server:
 spring:
   application:
     name: user-management
+  cache:
+    type: caffeine
+    cache-names: [users, user]
   threads:
     virtual:
       enabled: true
@@ -25,3 +28,5 @@ logging:
   level:
     com.abdul.usermanagement: DEBUG
     org.springframework.data.mongodb: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%X{correlationId}] %-5level %logger{36} - %msg%n"
