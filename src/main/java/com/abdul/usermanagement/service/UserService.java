@@ -67,12 +67,10 @@ public class UserService {
         User savedUser = userRepository.save(user);
         log.info("Created user with id: {}", savedUser.getId());
         return mapToResponse(savedUser);
-    }
-
-    /**
+    }/**
      * Update an existing user
      *
-     * @param id the user ID
+     * @param id the user
      * @param request user request
      * @return updated user response
      * @throws UserNotFoundException if user not found

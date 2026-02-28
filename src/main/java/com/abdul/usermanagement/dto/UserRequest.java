@@ -27,4 +27,41 @@ public record UserRequest(
         // Validation is handled by Jakarta Bean Validation annotations
         // Additional custom validation can be added here if needed
     }
+    
+    // Static builder method for backward compatibility with tests
+    public static Builder builder() {
+        return new Builder();
+    }
+    
+    // Builder class for backward compatibility with existing test code
+    public static class Builder {
+        private String firstName;
+        private String lastName;
+        private String address;
+        private Integer age;
+        
+        public Builder firstName(String firstName) {
+            this.firstName = firstName;
+            return this;
+        }
+        
+        public Builder lastName(String lastName) {
+            this.lastName = lastName;
+            return this;
+        }
+        
+        public Builder address(String address) {
+            this.address = address;
+            return this;
+        }
+        
+        public Builder age(Integer age) {
+            this.age = age;
+            return this;
+        }
+        
+        public UserRequest build() {
+            return new UserRequest(firstName, lastName, address, age);
+        }
+    }
 }
