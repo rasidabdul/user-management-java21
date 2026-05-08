@@ -1,2 +1,0 @@
-{"id":"62ad87bc-843b-435f-9a9c-6ecdd4c65705","ts":"2026-05-08T22:47:35.333Z","path":"/Users/abdulrasid/bob-workspace/user-management-java21/notes/bob_demo_notes.txt","version":"1.0.0","taskID":"aac0e494-f3b6-43e7-9c8e-ec72ee5cca6a"}
-{"id":"e05bf8ab-d52f-4548-9976-50ecc7dc0a0b","ts":"2026-05-08T22:47:35.407Z","path":"/Users/abdulrasid/bob-workspace/user-management-java21/notes/bob_demo_notes.txt","version":"1.0.0","taskID":"aac0e494-f3b6-43e7-9c8e-ec72ee5cca6a"}
