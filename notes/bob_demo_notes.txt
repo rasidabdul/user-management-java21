@@ -1,0 +1,9 @@
+This is a demo notes file created by Bob Shell.
+
+Prompt-1 : Who am I authenticated as on GitHub?
+
+Prompt2: 
+Add & Commit the current changes the current branch in the current repository. 
+Push as a new branch .
+Create a PR and assign it to me.
+Add a comment to the PR tagging me.
