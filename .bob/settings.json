@@ -53,6 +53,7 @@
     "git verify-tag",
     "git notes",
     "git replace",
-    "git maintenance"
+    "git maintenance",
+    "date"
   ]
 }
