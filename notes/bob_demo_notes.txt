@@ -1,6 +1,6 @@
 This is a demo notes file created by Bob Shell.
 
-Prompt-1: Who am I authenticated as on GitHub?
+Prompt1: Who am I authenticated as on GitHub?
 
 Prompt2: 
 Add & Commit the current changes to the main branch using appropropriate commit message.
@@ -9,3 +9,4 @@ Push the main branch as a new branch as main:feature-branch-update-<datetime>
 Create a PR with adequate description of the changes 
 Add a comment to the PR tagging me requesting review.
 
+Prompt3: Another prompt. This is a sample prompt.
