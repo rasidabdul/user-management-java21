@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="5.0">
+  <diagram name="PNC Platform Transformation" id="pnc-transformation">
+    <mxGraphModel dx="1664" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0078D4;strokeColor=#001E4E;fontColor=#ffffff;fontSize=16;fontStyle=1;" value="PNC Web Banking Platform Transformation - 12M Customers" vertex="1">
+          <mxGeometry height="60" width="1040" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D83B01;strokeColor=#8A2700;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="BEFORE: CGI Approach" vertex="1">
+          <mxGeometry height="50" width="480" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#107C10;strokeColor=#0E5A0E;fontColor=#ffffff;fontSize=14;fontStyle=1;" value="AFTER: IBM&#39;s KTLO Model" vertex="1">
+          <mxGeometry height="50" width="480" x="640" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontSize=11;fontStyle=2;" value="Problems: Low Quality - Low Speed - Problematic Releases - No Cross-Team Oversight" vertex="1">
+          <mxGeometry height="40" width="480" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 1&lt;br&gt;Cap 1" vertex="1">
+          <mxGeometry height="60" width="110" x="80" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 2&lt;br&gt;Cap 2" vertex="1">
+          <mxGeometry height="60" width="110" x="210" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 3&lt;br&gt;Cap 3" vertex="1">
+          <mxGeometry height="60" width="110" x="340" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 4&lt;br&gt;Cap 4" vertex="1">
+          <mxGeometry height="60" width="110" x="470" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 5&lt;br&gt;Cap 5" vertex="1">
+          <mxGeometry height="60" width="110" x="80" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 6&lt;br&gt;Cap 6" vertex="1">
+          <mxGeometry height="60" width="110" x="210" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 7&lt;br&gt;Cap 7" vertex="1">
+          <mxGeometry height="60" width="110" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 8&lt;br&gt;Cap 8" vertex="1">
+          <mxGeometry height="60" width="110" x="470" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 9&lt;br&gt;Cap 9" vertex="1">
+          <mxGeometry height="60" width="110" x="80" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 10&lt;br&gt;Cap 10" vertex="1">
+          <mxGeometry height="60" width="110" x="210" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 11&lt;br&gt;Cap 11" vertex="1">
+          <mxGeometry height="60" width="110" x="340" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" value="Team 12&lt;br&gt;Cap 12" vertex="1">
+          <mxGeometry height="60" width="110" x="470" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontSize=12;fontStyle=1;" value="Cost: $12M/year ($1M/month)" vertex="1">
+          <mxGeometry height="40" width="480" x="80" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0078D4;strokeColor=#001E4E;fontColor=#ffffff;fontSize=10;fontStyle=1;aspect=fixed;" value="TIGER TEAM&lt;br&gt;Platform Oversight&lt;br&gt;Integrated Leadership&lt;br&gt;Single Point of Contact&lt;br&gt;E2E Resolution&lt;br&gt;Release Owner" vertex="1">
+          <mxGeometry height="140" width="140" x="810" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" value="Team 1&lt;br&gt;Cap 1,2,3" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" value="Team 2&lt;br&gt;Cap 4,5,6" vertex="1">
+          <mxGeometry height="60" width="120" x="980" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" value="Team 3&lt;br&gt;Cap 7,8" vertex="1">
+          <mxGeometry height="60" width="120" x="950" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" value="Team 4&lt;br&gt;Cap 9,10" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" value="Team 5&lt;br&gt;Cap 11,12" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;fontSize=11;fontStyle=1;" value="AI-Driven Automation: Intelligent Incident Triage - Predictive Analytics - Automated Testing - Smart Release Management" vertex="1">
+          <mxGeometry height="40" width="480" x="640" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontSize=12;fontStyle=1;" value="Same Budget: $12M/year&lt;br&gt;IMPROVED: Speed + Quality + Platform Stability" vertex="1">
+          <mxGeometry height="40" width="480" x="640" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="27" edge="1" parent="1" source="19" style="endArrow=classic;html=1;strokeColor=#0078D4;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="28" edge="1" parent="1" source="19" style="endArrow=classic;html=1;strokeColor=#0078D4;strokeWidth=2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29" edge="1" parent="1" source="19" style="endArrow=classic;html=1;strokeColor=#0078D4;strokeWidth=2;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" edge="1" parent="1" source="19" style="endArrow=classic;html=1;strokeColor=#0078D4;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31" edge="1" parent="1" source="19" style="endArrow=classic;html=1;strokeColor=#0078D4;strokeWidth=2;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32" edge="1" parent="1" source="24" style="endArrow=none;html=1;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33" edge="1" parent="1" source="20" style="endArrow=none;html=1;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34" edge="1" parent="1" source="21" style="endArrow=none;html=1;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35" edge="1" parent="1" source="22" style="endArrow=none;html=1;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36" edge="1" parent="1" source="23" style="endArrow=none;html=1;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0078D4;strokeColor=#001E4E;fontColor=#ffffff;fontSize=13;fontStyle=1;" value="SUCCESS STORY: Tiger Team Model Expanded to Another LOB&lt;br&gt;Total Rewards/Loyalty Program" vertex="1">
+          <mxGeometry height="50" width="1040" x="80" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;fontSize=11;fontStyle=2;" value="12 Capabilities - 12M Customers - Monthly Releases" vertex="1">
+          <mxGeometry height="30" width="1040" x="80" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

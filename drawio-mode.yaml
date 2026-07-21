@@ -20,6 +20,7 @@ customModes:
       - edit:
           fileRegex: \.drawio$
           description: Draw.io diagram files only
+      - terminal
     customInstructions: |-
       GENERATION WORKFLOW (MANDATORY):
       1. Parse user request and identify diagram type (flowchart, network, architecture, etc.)
