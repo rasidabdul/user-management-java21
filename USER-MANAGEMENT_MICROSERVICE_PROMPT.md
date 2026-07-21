@@ -2,6 +2,8 @@
 
 Create a production-ready Spring Boot microservice API with the following specifications:
 
+Some updates
+
 ## Technology Stack
 - **Java 17** (source and target compatibility)
 - **Spring Boot 3.2.0**
