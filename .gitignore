@@ -42,3 +42,6 @@ out/
 ### Logs ###
 logs/
 *.log
+
+### Bob ###
+.bob/notes/pending-notes.txt
