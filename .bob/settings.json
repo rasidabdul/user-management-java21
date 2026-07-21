@@ -54,6 +54,7 @@
     "git notes",
     "git replace",
     "git maintenance",
-    "date"
+    "date",
+    "echo"
   ]
 }
