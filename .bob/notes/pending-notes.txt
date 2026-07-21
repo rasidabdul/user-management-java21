@@ -1,1 +1,0 @@
-{"id":"37f05dd9-8804-41f4-be9d-52ce44633140","ts":"2026-07-21T17:33:08.837Z","path":"/Users/abdulrasid/bob-workspace/user-management-java21/drawio-mode.yaml","version":"1.0.0","taskID":"341255cc-03ca-418f-a921-f3ee82d5d75d"}
