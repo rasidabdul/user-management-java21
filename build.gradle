@@ -29,6 +29,9 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
     implementation 'org.springframework.boot:spring-boot-starter-validation'
 
+    // Jackson dependency to resolve supply-chain vulnerability
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.21.4'
+
     // API Documentation
     implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0'
 
